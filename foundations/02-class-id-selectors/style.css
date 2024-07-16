@@ -1,4 +1,4 @@
-p{
+/* p{
     background-color: lightpink;
     font-family: verdana, DejaVu Sans, sans-serif;
 }
@@ -16,4 +16,13 @@ p{
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
+} */
+
+.odd{
+    background-color: lightpink;
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size{
+    font-size: 24px;
 }
